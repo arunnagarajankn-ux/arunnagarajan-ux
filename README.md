@@ -21,6 +21,7 @@
 
 ### 📌 Projects
 
+- **💻 Cohort Management - React Js + TypeScript. Managing cohort training for associates.
 - **📖 Book Management System** – Spring Boot + H2, CRUD APIs with custom queries  
 - **🔍 NetSpam** – A framework for detecting fake reviews (college project, .NET)  
 - **📂 Ranked Search System** – Secure & verifiable dynamic search on outsourced data (.NET)  
